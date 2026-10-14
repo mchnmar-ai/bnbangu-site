@@ -1,0 +1,2 @@
+window.wx = window.wx || { config: function(){}, ready: function(cb){ if (cb) setTimeout(cb, 0); }, error: function(){}, checkJsApi: function(){}, updateAppMessageShareData: function(){}, updateTimelineShareData: function(){}, onMenuShareTimeline: function(){}, onMenuShareAppMessage: function(){}, hideOptionMenu: function(){}, showAllNonBaseMenuItem: function(){}, hideAllNonBaseMenuItem: function(){} };
+window._hmt = window._hmt || { push: function(){} };
